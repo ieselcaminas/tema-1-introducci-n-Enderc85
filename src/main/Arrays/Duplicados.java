@@ -1,6 +1,6 @@
 package Arrays;
 
-public class Duplica2 {
+public class Duplicados {
     public static void main(String[] args) {
         int[] ar1 = {1, 2, 3, 3, 4, 2, 9, 1};
         String resultado = "";

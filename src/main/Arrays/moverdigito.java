@@ -1,6 +1,6 @@
 package Arrays;
 
-public class moverdigitoArray {
+public class moverdigito {
     public static void main(String[] args) {
         int[] array = {2, 8, 7, 5, 9};
         int mover = 2;

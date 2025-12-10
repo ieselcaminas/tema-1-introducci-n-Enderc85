@@ -2,7 +2,7 @@ package Primeras_act;
 
 import java.util.Scanner;
 
-public class ejemplo17p {
+public class ejemplo17pruebas {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.println("Ingrese el numero del mes:");
